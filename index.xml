@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ramiro de Elejalde</title>
+    <link>https://ramirode.github.io/</link>
+    <description>Recent content on Ramiro de Elejalde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 22:52:09 -0400</lastBuildDate><atom:link href="https://ramirode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://ramirode.github.io/post/posts/</link>
+      <pubDate>Fri, 09 Jun 2023 22:52:09 -0400</pubDate>
+      
+      <guid>https://ramirode.github.io/post/posts/</guid>
+      <description>This is my first post</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ramirode.github.io/about/</link>
+      <pubDate>Fri, 09 Jun 2023 22:45:47 -0400</pubDate>
+      
+      <guid>https://ramirode.github.io/about/</guid>
+      <description>This is my new website</description>
+    </item>
+    
+  </channel>
+</rss>
