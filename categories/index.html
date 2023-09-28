@@ -105,7 +105,17 @@
         </ul>
     </nav>
 </header>
-<main class="main">
+
+<script>
+    function visib(id) {
+     var x = document.getElementById(id);
+     if (x.style.display === "block") {
+       x.style.display = "none";
+     } else {
+       x.style.display = "block";
+     }
+   }
+</script><main class="main">
 <header class="page-header">
     <h1>Categories</h1>
 </header>
